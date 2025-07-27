@@ -1,0 +1,13 @@
+{
+    "name": "ehb-project",
+    "version": "1.0.0",
+    "description": "EHB Local to GitHub to Replit Auto Setup",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
